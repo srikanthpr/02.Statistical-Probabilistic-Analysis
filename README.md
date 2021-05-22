@@ -29,3 +29,13 @@ The following Distributor and Product variables to study:
 # 1.1	Use methods of descriptive statistics to summarize data:
            -Which Region and which Channel seems to spend more? AND
            -Which Region and which Channel seems to spend less?
+# 1.2	There are 6 different varieties of items are considered:
+           -Do all varieties show similar behaviour across Region and Channel?
+
+# 1.3	 On the basis of the descriptive measure of variability:
+            Which item shows the most inconsistent behaviour?
+            Which item shows the Least inconsistent behaviour?
+            
+# 1.4	 Are there any outliers in the data?
+
+# 1.5 On the basis of this report, what are the recommendations?
