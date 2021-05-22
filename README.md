@@ -8,7 +8,7 @@ The project involved drawing inferences from 3 case studies, namely - Wholesale 
 -Estimation
 -Hypothesis Testing
 
-## Case-1 : Wholesale Distributor
+## Case-1 : Wholesale Customer Analysis:
 A wholesale distributor operating in different regions of Portugal has information on annual spending of several items in their stores across different regions and channels. The data (Wholesale Customer.csv) consists of 440 large retailers’ annual spending on 6 different varieties of products in 3 different regions (Lisbon, Oporto, Other) and across different sales channel (Hotel, Retail).
 The following Distributor and Product variables to study:
 
