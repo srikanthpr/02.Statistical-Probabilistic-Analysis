@@ -7,3 +7,21 @@ The project involved drawing inferences from 3 case studies, namely - Wholesale 
 -Probability & Probability Distributions
 -Estimation
 -Hypothesis Testing
+
+## Case-1 : Wholesale Distributor
+A wholesale distributor operating in different regions of Portugal has information on annual spending of several items in their stores across different regions and channels. The data (Wholesale Customer.csv) consists of 440 large retailers’ annual spending on 6 different varieties of products in 3 different regions (Lisbon, Oporto, Other) and across different sales channel (Hotel, Retail).
+The following Distributor and Product variables to study:
+
+|Type    | Data-type | Variables |
+|:---    | :-------- | :-------- | 
+|Region  | Nominal   | Lisbon    |
+|        |           | Oporto    |
+|        |           | Other     |
+|Channel | Nominal   | Hotel     |
+|        |           | Retail    |
+|Products| Continuous| Fresh Products |
+|        |           | Milk Products|
+|        |           | Grocery Products|
+|        |           | Frozen Products|
+|        |           | Detergent Products|
+|        |           | Delicatessen Products|
