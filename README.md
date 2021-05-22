@@ -25,3 +25,7 @@ The following Distributor and Product variables to study:
 |        |           | Frozen Products|
 |        |           | Detergent Products|
 |        |           | Delicatessen Products|
+
+# 1.1	Use methods of descriptive statistics to summarize data:
+           -Which Region and which Channel seems to spend more? AND
+           -Which Region and which Channel seems to spend less?
