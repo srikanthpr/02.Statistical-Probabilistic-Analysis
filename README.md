@@ -1,4 +1,4 @@
-# Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data
+# 02.Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data
 
 The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are used to analyse these case studies.
 
@@ -39,3 +39,6 @@ The following Distributor and Product variables to study:
 # 1.4	 Are there any outliers in the data?
 
 # 1.5 On the basis of this report, what are the recommendations?
+
+## Case-2 : University Survey:
+
