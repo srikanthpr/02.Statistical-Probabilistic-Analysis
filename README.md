@@ -86,8 +86,8 @@ For the A shingles, the null and alternative hypothesis to test whether the popu
      H1 > 0.35<br>
 
 For the B shingles, the null and alternative hypothesis to test whether the population mean moisture content is less than 0.35 pound per 100 square feet is given:<br>
-     Ho <= 0.35
-     H1 > 0.35
+     Ho <= 0.35<br>
+     H1 > 0.35<br>
 
 #### 3.1 Do you think that the population means for shingles A and B are equal? Form the hypothesis and conduct the test of the hypothesis. What assumption do you need to check before the test for equality of means is performed?
 
