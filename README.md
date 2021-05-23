@@ -8,7 +8,7 @@ The project involved drawing inferences from 3 case studies, namely - Wholesale 
 -Estimation
 -Hypothesis Testing
 
-### Case-1 : Wholesale Customer Analysis:
+## Case-1 : Wholesale Customer Analysis:
 A wholesale distributor operating in different regions of Portugal has information on annual spending of several items in their stores across different regions and channels. The data (Wholesale Customer.csv) consists of 440 large retailers’ annual spending on 6 different varieties of products in 3 different regions (Lisbon, Oporto, Other) and across different sales channel (Hotel, Retail).
 The following Distributor and Product variables to study:
 
@@ -40,7 +40,7 @@ The following Distributor and Product variables to study:
 
 #### 1.5 On the basis of this report, what are the observations and recommendations?
 
-### Case-2 : University Student Survey:
+## Case-2 : University Student Survey:
 
 The Student News Service at Clear Mountain State University (CMSU) has decided to gather data about the undergraduate students that attend CMSU. CMSU creates and distributes a survey of 14 questions and receives responses from 62 undergraduates (stored in the Survey.csv file).
 
@@ -76,3 +76,23 @@ The Student News Service at Clear Mountain State University (CMSU) has decided t
 #### 2.4. Note that there are three numerical (continuous) variables in the data set, Salary, Spending and Text Messages. For each of them comment whether they follow a normal distribution. Write a note summarizing your conclusions.
 [Recall that symmetric histogram does not necessarily mean that the underlying distribution is symmetric]
 
+## Case-3 : Manufacturing of A&B Shingles:
+
+An important quality characteristic used by the manufacturers of ABC asphalt shingles is the amount of moisture the shingles contain when they are packaged. Customers may feel that they have purchased a product lacking in quality if they find moisture and wet shingles inside the packaging.   In some cases, excessive moisture can cause the granules attached to the shingles for texture and colouring purposes to fall off the shingles resulting in appearance problems. To monitor the amount of moisture present, the company conducts moisture tests. A shingle is weighed and then dried. The shingle is then reweighed, and based on the amount of moisture taken out of the product, the pounds of moisture per 100 square feet is calculated. The company claims that the mean moisture content cannot be greater than 0.35 pound per 100 square feet.
+The file (A & B shingles.csv) includes 36 measurements (in pounds per 100 square feet) for A shingles and 31 for B shingles.
+
+For the A shingles, the null and alternative hypothesis to test whether the population mean moisture content is less than 0.35 pound per 100 square feet  is given:
+
+LaTeX: H_0<=0.35
+
+LaTeX: H_A>0.35
+
+For the B shingles, the null and alternative hypothesis to test whether the population mean moisture content is less than 0.35 pound per 100 square feet is given:
+
+LaTeX: H_0<=0.35
+
+LaTeX: H_A>0.35
+
+#### 3.1 Do you think that the population means for shingles A and B are equal? Form the hypothesis and conduct the test of the hypothesis. What assumption do you need to check before the test for equality of means is performed?
+
+#### 3.2 What assumption about the population distribution is needed in order to conduct the hypothesis tests above?
