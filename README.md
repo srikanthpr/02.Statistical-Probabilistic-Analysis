@@ -38,7 +38,41 @@ The following Distributor and Product variables to study:
             
 #### 1.4	 Are there any outliers in the data?
 
-#### 1.5 On the basis of this report, what are the recommendations?
+#### 1.5 On the basis of this report, what are the observations and recommendations?
 
-### Case-2 : University Survey:
+### Case-2 : University Student Survey:
+
+The Student News Service at Clear Mountain State University (CMSU) has decided to gather data about the undergraduate students that attend CMSU. CMSU creates and distributes a survey of 14 questions and receives responses from 62 undergraduates (stored in the Survey.csv file).
+
+#### Part I
+
+#### 2.1. For this data, construct the following contingency tables (Keep Gender as row variable)
+
+           2.1.1. Gender and Major
+           2.1.2. Gender and Grad Intention
+           2.1.3. Gender and Employment
+           2.1.4. Gender and Computer
+ 
+#### 2.2. Assume that the sample is a representative of the population of CMSU. Based on the data, answer the following questions:
+
+           2.2.1. What is the probability that a randomly selected CMSU student will be male?
+                  What is the probability that a randomly selected CMSU student will be female?
+
+           2.2.2. Find the conditional probability of different majors among the male students in CMSU.
+                  Find the conditional probability of different majors among the female students of CMSU.
+
+           2.2.3. Find the conditional probability of intent to graduate, given that the student is a male.
+                  Find the conditional probability of intent to graduate, given that the student is a female.
+
+           2.2.4. Find the conditional probability of employment status for the male students as well as for the female students.
+
+           2.2.5. Find the conditional probability of laptop preference among the male students as well as among the female students.
+ 
+
+#### 2.3. Based on the above probabilities, do you think that the column variable in each case is independent of Gender? Justify your comment in each case.
+
+#### Part II
+
+#### 2.4. Note that there are three numerical (continuous) variables in the data set, Salary, Spending and Text Messages. For each of them comment whether they follow a normal distribution. Write a note summarizing your conclusions.
+[Recall that symmetric histogram does not necessarily mean that the underlying distribution is symmetric]
 
